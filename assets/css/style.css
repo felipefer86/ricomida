@@ -1,0 +1,33 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+
+.font_lobster{
+    font-family: 'Lobster', cursive;;
+}
+.logo_size{
+    font-size: 2rem;
+}
+.imagen-pizza{
+    width: 100%;
+}
+.borde-inferior {
+	border-bottom: solid 1px grey;
+}
+.ancho-texto{
+    width: 70%;
+}
+.fontsize{
+    font-size: small;
+    }
+.carousel-indicators li{
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background-color: #373a3c;
+}
+.carousel-indicators{
+    top: 105%;
+}
